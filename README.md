@@ -8,7 +8,7 @@
 	<details>
 	<summary>How to Select shell?</summary>
 	<br>
-		![title](http://joxi.ru/GrqD0XPtRlyMPA)
+		![title](https://joxi.ru/GrqD0XPtRlyMPA)
 	</details>
 
 4. Install **yarn package manager** 
