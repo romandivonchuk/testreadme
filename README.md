@@ -8,7 +8,8 @@
 	<details>
 	<summary>How to Select shell?</summary>
 	<br>	
-		![title](https://raw.githubusercontent.com/romandivonchuk/testreadme/main/1adf352821.jpg)
+	[Обычная ссылка в строке](https://raw.githubusercontent.com/romandivonchuk/testreadme/main/1adf352821.jpg)	
+
 	</details>
 
 4. Install **yarn package manager** 
