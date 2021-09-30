@@ -8,7 +8,7 @@
 	<details>
 	<summary>1How to Select default shell?</summary>
 	<br>
-	![enter image description here](http://joxi.ru/GrqD0XPtRlyMPA)
+	![Alt text](http://joxi.ru/GrqD0XPtRlyMPA)
 	</details>
 
 4. Install **yarn package manager** 
