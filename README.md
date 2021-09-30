@@ -8,7 +8,7 @@
 	<details>
 	<summary>How to Select shell?</summary>
 	<br>	
-	[Обычная ссылка в строке](https://raw.githubusercontent.com/romandivonchuk/testreadme/main/1adf352821.jpg)	
+	[logo]:https://raw.githubusercontent.com/romandivonchuk/testreadme/main/1adf352821.jpg
 
 	</details>
 
