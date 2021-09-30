@@ -7,7 +7,8 @@
 3. Open the Terminal (gitBash) in your IDE
 	<details>
 	<summary>How to Select shell?</summary>
-	<br>
+	<br>	
+		<img src="https://joxi.ru/GrqD0XPtRlyMPA"/>
 		![title](https://joxi.ru/GrqD0XPtRlyMPA)
 	</details>
 
