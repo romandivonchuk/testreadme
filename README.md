@@ -8,7 +8,7 @@
 	<details>
 	<summary>How to Select shell?</summary>
 	<br>	
-		![title](main/1adf352821.jpg)
+		![title](1adf352821.jpg)
 	</details>
 
 4. Install **yarn package manager** 
