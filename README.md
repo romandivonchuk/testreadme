@@ -6,9 +6,9 @@
 
 3. Open the Terminal (gitBash) in your IDE
 	<details>
-	<summary>How to Select default shell?</summary>
+	<summary>How to Select shell?</summary>
 	<br>
-	![Alt text](http://joxi.ru/GrqD0XPtRlyMPA)
+	![Image of Yaktocat](http://joxi.ru/GrqD0XPtRlyMPA)
 	</details>
 
 4. Install **yarn package manager** 
