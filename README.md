@@ -8,7 +8,7 @@
 	<details>
 	<summary>How to Select shell?</summary>
 	<br>
-	![Image of Yaktocat](http://joxi.ru/GrqD0XPtRlyMPA)
+	![title](http://joxi.ru/GrqD0XPtRlyMPA)
 	</details>
 
 4. Install **yarn package manager** 
