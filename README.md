@@ -8,7 +8,7 @@
 	<details>
 	<summary>How to Select shell?</summary>
 	<br>	
-	<img src="https://github.com/romandivonchuk/testreadme/blob/main/1adf352821.jpg?raw=true" width="220" height="240" />
+	<img src="https://github.com/romandivonchuk/testreadme/blob/main/1adf352821.jpg?raw=true"/>
 
 	</details>
 
