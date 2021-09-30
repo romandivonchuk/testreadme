@@ -3,7 +3,7 @@
  To avoid permissions issues **DO NOT place your projects folder on desktop** There should be **NO SPACES in the path**. e.g. `C:\Users\Your Name\projects`. It is better to put repositories into `D:\projects` or `C:\Users\YourName\projects`
  
 2. Open folder project in IDE
-
+[logo]:https://raw.githubusercontent.com/romandivonchuk/testreadme/main/1adf352821.jpg
 3. Open the Terminal (gitBash) in your IDE
 	<details>
 	<summary>How to Select shell?</summary>
